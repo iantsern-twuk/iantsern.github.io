@@ -34,9 +34,8 @@ jobs:
           hugo-version: '0.136.5'
           extended: true
 
-      - name: Initialize Hugo Modules
+      - name: Update Hugo Modules
         run: |
-          hugo mod init github.com/iantsern/iantsern.github.io
           hugo mod get -u ./...
           hugo mod tidy
 
