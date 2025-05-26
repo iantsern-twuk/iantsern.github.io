@@ -51,8 +51,11 @@ jobs:
       - name: Build with Hugo
         run: |
           rm -rf public/
+          mkdir -p public
           hugo --minify --logLevel debug
+          echo "=== Contents of public directory ==="
           ls -la public/
+          echo "=== End of public directory contents ==="
           if [ ! -d "public" ]; then
             echo "Error: public directory was not created"
             exit 1
