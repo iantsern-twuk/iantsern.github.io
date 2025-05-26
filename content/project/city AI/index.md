@@ -1,7 +1,7 @@
 ---
 title: City AI
 
-date: 2023-02-01
+date: 2024-09-01
 external_link: https://www.csltaipeitech.com/en/project/cityai-t-ai-1
 tags:
   - AI & LLMs
