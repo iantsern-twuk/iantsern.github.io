@@ -34,13 +34,22 @@ jobs:
           hugo-version: '0.136.5'
           extended: true
 
+      - name: Debug Hugo Environment
+        run: |
+          hugo version
+          ls -la
+          cat go.mod
+
       - name: Update Hugo Modules
         run: |
           hugo mod get -u ./...
           hugo mod tidy
+          hugo mod graph
 
       - name: Build with Hugo
-        run: hugo --minify
+        run: |
+          hugo --minify --debug
+          ls -la public/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
