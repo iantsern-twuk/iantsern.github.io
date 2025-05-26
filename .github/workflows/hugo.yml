@@ -34,11 +34,13 @@ jobs:
           hugo-version: '0.136.5'
           extended: true
 
-      - name: Debug Hugo Environment
+      - name: Debug Environment
         run: |
-          hugo version
+          pwd
           ls -la
+          hugo version
           cat go.mod
+          cat go.sum
 
       - name: Update Hugo Modules
         run: |
@@ -48,13 +50,23 @@ jobs:
 
       - name: Build with Hugo
         run: |
-          hugo --minify --debug
+          rm -rf public/
+          hugo --minify --logLevel debug
           ls -la public/
+          if [ ! -d "public" ]; then
+            echo "Error: public directory was not created"
+            exit 1
+          fi
+          if [ -z "$(ls -A public)" ]; then
+            echo "Error: public directory is empty"
+            exit 1
+          fi
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
+          retention-days: 1
 
   deploy:
     environment:
