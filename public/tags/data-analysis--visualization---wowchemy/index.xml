@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Analysis &amp; Visualization - Wowchemy | Chung-En Tsern Portfolio</title>
+    <link>http://localhost:1313/tags/data-analysis--visualization---wowchemy/</link>
+      <atom:link href="http://localhost:1313/tags/data-analysis--visualization---wowchemy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Analysis &amp; Visualization - Wowchemy</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 22 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Data Analysis &amp; Visualization - Wowchemy</title>
+      <link>http://localhost:1313/tags/data-analysis--visualization---wowchemy/</link>
+    </image>
+    
+    <item>
+      <title>Decoding Commute Patterns</title>
+      <link>http://localhost:1313/project/commute-analysis/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/commute-analysis/</guid>
+      <description>&lt;p&gt;Using telecom and public transport data to analyze commuting patterns to the tech industry park from different areas.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

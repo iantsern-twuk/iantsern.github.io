@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science | Chung-En Tsern Portfolio</title>
+    <link>http://localhost:1313/tags/data-science/</link>
+      <atom:link href="http://localhost:1313/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Science</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 29 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu17111918402887160064.png</url>
+      <title>Data Science</title>
+      <link>http://localhost:1313/tags/data-science/</link>
+    </image>
+    
+    <item>
+      <title>Grocery Store Location Selection</title>
+      <link>http://localhost:1313/project/spatial-interaction/</link>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/spatial-interaction/</guid>
+      <description>&lt;p&gt;Employing a gravity model estimate human mobility to existing grocery stores to support the selection of sites for new supermarkets.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Traffic Collision Risk Prediction</title>
+      <link>http://localhost:1313/project/traffic-collision/</link>
+      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/traffic-collision/</guid>
+      <description>&lt;p&gt;Using spatial and collision features, combined with machine learning to predict accident severity in multiple cities.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI &amp; LLMs | Chung-En Tsern Portfolio</title>
+    <link>http://localhost:1313/tags/ai--llms/</link>
+      <atom:link href="http://localhost:1313/tags/ai--llms/index.xml" rel="self" type="application/rss+xml" />
+    <description>AI &amp; LLMs</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu17111918402887160064.png</url>
+      <title>AI &amp; LLMs</title>
+      <link>http://localhost:1313/tags/ai--llms/</link>
+    </image>
+    
+    <item>
+      <title>Insight Navigator</title>
+      <link>http://localhost:1313/project/insight-navigator/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/insight-navigator/</guid>
+      <description>&lt;p&gt;Leverage LLMs and embedding models to analyze citizen complaints, offering insights into community concerns.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Urban Mobility Simulator</title>
+      <link>http://localhost:1313/project/mobility-simulator/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/mobility-simulator/</guid>
+      <description>&lt;p&gt;Utilize large language models to create synthetic profiles, enabling insights into how individuals shape urban dynamics.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>City AI</title>
+      <link>http://localhost:1313/project/city-ai/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/city-ai/</guid>
+      <description>&lt;p&gt;City AI helps public understand urban issues and city dynamics through natural language question answering.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

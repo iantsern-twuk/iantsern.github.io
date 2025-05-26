@@ -1,0 +1,15 @@
+{
+    "name": "Chung-En Tsern Portfolio",
+    "short_name": "Chung-En Tsern",
+    "icons": [
+        {
+            "src": "https://github.githubassets.com/favicons/favicon.svg",
+            "sizes": "any",
+            "type": "image/svg+xml"
+        }
+    ],
+    "start_url": "/",
+    "display": "standalone",
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff"
+} 
