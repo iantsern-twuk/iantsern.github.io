@@ -47,8 +47,10 @@ jobs:
         run: |
           rm -rf public/
           mkdir -p public
-          hugo --minify --baseURL "${{ steps.pages.outputs.base_url }}/" --logLevel debug
+          hugo --minify --logLevel debug
+          echo "=== Contents of public directory ==="
           ls -la public/
+          echo "=== End of public directory contents ==="
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

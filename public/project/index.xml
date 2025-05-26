@@ -1,1 +1,104 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Projects | Chung-En Tsern Portfolio</title><link>https://iantsern.github.io/project/</link><atom:link href="https://iantsern.github.io/project/index.xml" rel="self" type="application/rss+xml"/><description>Projects</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 May 2025 00:00:00 +0000</lastBuildDate><image><url>https://iantsern.github.io/media/logo_hu17111918402887160064.png</url><title>Projects</title><link>https://iantsern.github.io/project/</link></image><item><title>Solar Panel Dashboard</title><link>https://iantsern.github.io/project/solar-pannel/</link><pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate><guid>https://iantsern.github.io/project/solar-pannel/</guid><description>&lt;p>Using satellite imagery analyze the impact of solar panels on temperature and includes a model to predict temperature changes.&lt;/p></description></item><item><title>Grocery Store Location Selection</title><link>https://iantsern.github.io/project/spatial-interaction/</link><pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate><guid>https://iantsern.github.io/project/spatial-interaction/</guid><description>&lt;p>Employing a gravity model estimate human mobility to existing grocery stores to support the selection of sites for new supermarkets.&lt;/p></description></item><item><title>Traffic Collision Risk Prediction</title><link>https://iantsern.github.io/project/traffic-collision/</link><pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate><guid>https://iantsern.github.io/project/traffic-collision/</guid><description>&lt;p>Using spatial and collision features, combined with machine learning to predict accident severity in multiple cities.&lt;/p></description></item><item><title>Insight Navigator</title><link>https://iantsern.github.io/project/insight-navigator/</link><pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate><guid>https://iantsern.github.io/project/insight-navigator/</guid><description>&lt;p>Leverage LLMs and embedding models to analyze citizen complaints, offering insights into community concerns.&lt;/p></description></item><item><title>Urban Mobility Simulator</title><link>https://iantsern.github.io/project/mobility-simulator/</link><pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate><guid>https://iantsern.github.io/project/mobility-simulator/</guid><description>&lt;p>Utilize large language models to create synthetic profiles, enabling insights into how individuals shape urban dynamics.&lt;/p></description></item><item><title>City AI</title><link>https://iantsern.github.io/project/city-ai/</link><pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate><guid>https://iantsern.github.io/project/city-ai/</guid><description>&lt;p>City AI helps public understand urban issues and city dynamics through natural language question answering.&lt;/p></description></item><item><title>City Dashboard</title><link>https://iantsern.github.io/project/city-dishbord/</link><pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate><guid>https://iantsern.github.io/project/city-dishbord/</guid><description>&lt;p>Taipei City Dashboard was created to integrate cross-domain data, enhancing policy discussions and share insights with the public.&lt;/p></description></item><item><title>Decoding Commute Patterns</title><link>https://iantsern.github.io/project/commute-analysis/</link><pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate><guid>https://iantsern.github.io/project/commute-analysis/</guid><description>&lt;p>Using telecom and public transport data to analyze commuting patterns to the tech industry park from different areas.&lt;/p></description></item><item><title>City Exhibition</title><link>https://iantsern.github.io/project/future-taipei/</link><pubDate>Fri, 26 Aug 2022 00:00:00 +0000</pubDate><guid>https://iantsern.github.io/project/future-taipei/</guid><description>&lt;p>Through an interactive digital exhibition, citizens are informed about how their behavior impacts the urban environment.&lt;/p></description></item><item><title>Taxi Amenities Analysis</title><link>https://iantsern.github.io/project/taxi-analysis/</link><pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate><guid>https://iantsern.github.io/project/taxi-analysis/</guid><description>&lt;p>This study analyzes taxi stand usage in Taipei City using taxi origin-destination (OD) data.&lt;/p></description></item><item><title>COVID-19 Dashboard</title><link>https://iantsern.github.io/project/covid-19/</link><pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate><guid>https://iantsern.github.io/project/covid-19/</guid><description>&lt;p>Combining data from multiple sources to create a dashboard for the city government making decisions during the pandemic.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Chung-En Tsern Portfolio</title>
+    <link>http://localhost:1313/project/</link>
+      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu17111918402887160064.png</url>
+      <title>Projects</title>
+      <link>http://localhost:1313/project/</link>
+    </image>
+    
+    <item>
+      <title>Solar Panel Dashboard</title>
+      <link>http://localhost:1313/project/solar-pannel/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/solar-pannel/</guid>
+      <description>&lt;p&gt;Using satellite imagery analyze the impact of solar panels on temperature and includes a model to predict temperature changes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Grocery Store Location Selection</title>
+      <link>http://localhost:1313/project/spatial-interaction/</link>
+      <pubDate>Tue, 29 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/spatial-interaction/</guid>
+      <description>&lt;p&gt;Employing a gravity model estimate human mobility to existing grocery stores to support the selection of sites for new supermarkets.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Traffic Collision Risk Prediction</title>
+      <link>http://localhost:1313/project/traffic-collision/</link>
+      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/traffic-collision/</guid>
+      <description>&lt;p&gt;Using spatial and collision features, combined with machine learning to predict accident severity in multiple cities.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Insight Navigator</title>
+      <link>http://localhost:1313/project/insight-navigator/</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/insight-navigator/</guid>
+      <description>&lt;p&gt;Leverage LLMs and embedding models to analyze citizen complaints, offering insights into community concerns.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Urban Mobility Simulator</title>
+      <link>http://localhost:1313/project/mobility-simulator/</link>
+      <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/mobility-simulator/</guid>
+      <description>&lt;p&gt;Utilize large language models to create synthetic profiles, enabling insights into how individuals shape urban dynamics.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>City AI</title>
+      <link>http://localhost:1313/project/city-ai/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/city-ai/</guid>
+      <description>&lt;p&gt;City AI helps public understand urban issues and city dynamics through natural language question answering.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>City Dashboard</title>
+      <link>http://localhost:1313/project/city-dishbord/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/city-dishbord/</guid>
+      <description>&lt;p&gt;Taipei City Dashboard was created to integrate cross-domain data, enhancing policy discussions and share insights with the public.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Decoding Commute Patterns</title>
+      <link>http://localhost:1313/project/commute-analysis/</link>
+      <pubDate>Thu, 22 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/commute-analysis/</guid>
+      <description>&lt;p&gt;Using telecom and public transport data to analyze commuting patterns to the tech industry park from different areas.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>City Exhibition</title>
+      <link>http://localhost:1313/project/future-taipei/</link>
+      <pubDate>Fri, 26 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/future-taipei/</guid>
+      <description>&lt;p&gt;Through an interactive digital exhibition, citizens are informed about how their behavior impacts the urban environment.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Taxi Amenities Analysis</title>
+      <link>http://localhost:1313/project/taxi-analysis/</link>
+      <pubDate>Wed, 01 Sep 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/taxi-analysis/</guid>
+      <description>&lt;p&gt;This study analyzes taxi stand usage in Taipei City using taxi origin-destination (OD) data.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 Dashboard</title>
+      <link>http://localhost:1313/project/covid-19/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/covid-19/</guid>
+      <description>&lt;p&gt;Combining data from multiple sources to create a dashboard for the city government making decisions during the pandemic.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

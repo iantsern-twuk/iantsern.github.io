@@ -1,1 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Dashboard | Chung-En Tsern Portfolio</title><link>https://iantsern.github.io/tags/dashboard/</link><atom:link href="https://iantsern.github.io/tags/dashboard/index.xml" rel="self" type="application/rss+xml"/><description>Dashboard</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 May 2025 00:00:00 +0000</lastBuildDate><image><url>https://iantsern.github.io/media/logo_hu17111918402887160064.png</url><title>Dashboard</title><link>https://iantsern.github.io/tags/dashboard/</link></image><item><title>Solar Panel Dashboard</title><link>https://iantsern.github.io/project/solar-pannel/</link><pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate><guid>https://iantsern.github.io/project/solar-pannel/</guid><description>&lt;p>Using satellite imagery analyze the impact of solar panels on temperature and includes a model to predict temperature changes.&lt;/p></description></item><item><title>City Dashboard</title><link>https://iantsern.github.io/project/city-dishbord/</link><pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate><guid>https://iantsern.github.io/project/city-dishbord/</guid><description>&lt;p>Taipei City Dashboard was created to integrate cross-domain data, enhancing policy discussions and share insights with the public.&lt;/p></description></item><item><title>COVID-19 Dashboard</title><link>https://iantsern.github.io/project/covid-19/</link><pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate><guid>https://iantsern.github.io/project/covid-19/</guid><description>&lt;p>Combining data from multiple sources to create a dashboard for the city government making decisions during the pandemic.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dashboard | Chung-En Tsern Portfolio</title>
+    <link>http://localhost:1313/tags/dashboard/</link>
+      <atom:link href="http://localhost:1313/tags/dashboard/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dashboard</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/logo_hu17111918402887160064.png</url>
+      <title>Dashboard</title>
+      <link>http://localhost:1313/tags/dashboard/</link>
+    </image>
+    
+    <item>
+      <title>Solar Panel Dashboard</title>
+      <link>http://localhost:1313/project/solar-pannel/</link>
+      <pubDate>Fri, 02 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/solar-pannel/</guid>
+      <description>&lt;p&gt;Using satellite imagery analyze the impact of solar panels on temperature and includes a model to predict temperature changes.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>City Dashboard</title>
+      <link>http://localhost:1313/project/city-dishbord/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/city-dishbord/</guid>
+      <description>&lt;p&gt;Taipei City Dashboard was created to integrate cross-domain data, enhancing policy discussions and share insights with the public.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>COVID-19 Dashboard</title>
+      <link>http://localhost:1313/project/covid-19/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/covid-19/</guid>
+      <description>&lt;p&gt;Combining data from multiple sources to create a dashboard for the city government making decisions during the pandemic.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
