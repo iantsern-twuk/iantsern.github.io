@@ -37,6 +37,14 @@
     </item>
     
     <item>
+      <title>City AI</title>
+      <link>http://localhost:1313/project/city-ai/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/city-ai/</guid>
+      <description>&lt;p&gt;City AI helps public understand urban issues and city dynamics through natural language question answering.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Insight Navigator</title>
       <link>http://localhost:1313/project/insight-navigator/</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
@@ -50,14 +58,6 @@
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/mobility-simulator/</guid>
       <description>&lt;p&gt;Utilize large language models to create synthetic profiles, enabling insights into how individuals shape urban dynamics.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>City AI</title>
-      <link>http://localhost:1313/project/city-ai/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/city-ai/</guid>
-      <description>&lt;p&gt;City AI helps public understand urban issues and city dynamics through natural language question answering.&lt;/p&gt;</description>
     </item>
     
     <item>

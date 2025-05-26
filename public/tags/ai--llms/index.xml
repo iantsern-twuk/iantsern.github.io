@@ -5,12 +5,20 @@
     <link>http://localhost:1313/tags/ai--llms/</link>
       <atom:link href="http://localhost:1313/tags/ai--llms/index.xml" rel="self" type="application/rss+xml" />
     <description>AI &amp; LLMs</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/logo_hu17111918402887160064.png</url>
       <title>AI &amp; LLMs</title>
       <link>http://localhost:1313/tags/ai--llms/</link>
     </image>
+    
+    <item>
+      <title>City AI</title>
+      <link>http://localhost:1313/project/city-ai/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/city-ai/</guid>
+      <description>&lt;p&gt;City AI helps public understand urban issues and city dynamics through natural language question answering.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Insight Navigator</title>
@@ -26,14 +34,6 @@
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/project/mobility-simulator/</guid>
       <description>&lt;p&gt;Utilize large language models to create synthetic profiles, enabling insights into how individuals shape urban dynamics.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>City AI</title>
-      <link>http://localhost:1313/project/city-ai/</link>
-      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/city-ai/</guid>
-      <description>&lt;p&gt;City AI helps public understand urban issues and city dynamics through natural language question answering.&lt;/p&gt;</description>
     </item>
     
   </channel>
