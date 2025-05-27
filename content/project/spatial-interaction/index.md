@@ -2,7 +2,7 @@
 title: Grocery Store Location Selection
 
 date: 2025-04-29
-external_link: https://raw.githack.com/iantsern-twuk/CASA0002_Urban-simulation/refs/heads/main/notebook.html?token=GHSAT0AAAAAACZHVFXQTNNPNUCKOFZZZU4I2BTVTCQ
+external_link: https://raw.githack.com/iantsern-twuk/CASA0002_location-selection/refs/heads/main/notebook.html
 tags:
   - Data Science
   #- Wowchemy
