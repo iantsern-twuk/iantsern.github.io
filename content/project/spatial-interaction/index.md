@@ -9,6 +9,6 @@ tags:
   #- Markdown
 ---
 
-Employing a gravity model estimate human mobility to existing grocery stores to support the selection of sites for new supermarkets.
+Employing a gravity model estimate human mobility to existing grocery stores to support the selection of sites for a new store.
 
 <!--more-->
