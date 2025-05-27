@@ -14,8 +14,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'The highly-customizable Hugo Academic theme powered by Hugo Blox Builder. Easily create your personal academic website.'
-    image: 'https://iantsern.github.io/logo.png'
+    description: 'Chung-En Tsern Portfolio'
+    image: 'https://github.com/iantsern-twuk/portfolio/blob/main/static/logo.png'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
