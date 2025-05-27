@@ -45,10 +45,10 @@ footer:
     notice: ''
   license:
     enable: true
-    allow_derivatives: false
-    share_alike: false
-    allow_commercial: false
-  powered_by: false
+    allow_derivatives: true
+    share_alike: true
+    allow_commercial: true
+  powered_by: true
 
 # Localization
 locale:
@@ -58,6 +58,6 @@ locale:
 # Site features
 features:
   math:
-    enable: false
+    enable: true
   privacy_pack:
-    enable: false
+    enable: true

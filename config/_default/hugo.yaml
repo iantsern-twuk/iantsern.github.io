@@ -23,7 +23,7 @@ removePathAccents: true
 
 build:
   writeStats: true
-enableGitInfo: false
+enableGitInfo: true
 summaryLength: 30
 pagination:
   pagerSize: 10
@@ -49,7 +49,7 @@ taxonomies:
 markup:
   _merge: deep
   highlight:
-    lineNos: false
+    lineNos: true
 security:
   _merge: deep
 sitemap:
